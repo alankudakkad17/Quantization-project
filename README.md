@@ -1,4 +1,4 @@
-#Model Quantization
+# Model Quantization
 
 This notebook walks through three PyTorch quantization techniques applied to a CNN trained on CIFAR-10, then applies dynamic quantization to a BLIP Visual Question Answering (VQA) model.
 
